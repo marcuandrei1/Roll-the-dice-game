@@ -1,2 +1,2 @@
 # Roll-the-dice-game
- An easy 2 player game.
+Easy 2 player game.
